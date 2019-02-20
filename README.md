@@ -1,5 +1,4 @@
 # Latihan1
-----
 ## Algoritma
 ### Menampilkan n bilangan acak yang lebih kecil dari 0,5
 ### nilai n diisi pada saat runtime.
@@ -15,7 +14,6 @@
 ### Hasil run file
 ![github](https://github.com/dicgar95/labpy03/blob/master/latihan1-hasil.png)
 # latihan2
----
 ## Algoritma
 ### Membuat program untuk menampilkan bilangan terbesar dari n buah data yang diinputkan
 ### Masukkan angka 0 untuk berhenti
@@ -35,7 +33,6 @@
 ### Hasil run file
 ![github](https://github.com/dicgar95/labpy03/blob/master/latihan2-hasil.png)
 # Program1
----
 ## Soal :
 
 Membuat program sederhana dengan perulangan :
